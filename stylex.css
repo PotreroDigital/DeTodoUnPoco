@@ -1,0 +1,38 @@
+
+    #gene {
+        font-family:"Verdana, Geneva", sans-serif;
+        
+        font-size: 18px 
+         }
+        
+        
+        #tipri {
+          font-size:37px
+
+            line-height: 46px;
+
+          font-family:"tahoma, Helvetica", sans-serif;
+          text-align: center; }
+
+        #sub {
+          font-size: 25px
+
+            line-height: 38px;
+ 
+          font-family:"tahoma, Helvetica", sans-serif;
+        }
+         
+        #baj{
+          color: #666;
+          font-size:18px
+        }
+        
+        #par{
+          color: #333;
+          line-height: 27px;
+          font-size: 18px
+        }
+        
+        #ima{
+           display: block;
+           margin: auto;
