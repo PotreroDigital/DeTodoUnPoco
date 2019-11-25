@@ -26,7 +26,7 @@ margin-bottom: 40px;
 
 p
 {
-color: #fff;  
+color: #fff;
 }
 
 input, textarea {
@@ -124,4 +124,26 @@ cursor: pointer;
   overflow: hidden;
   padding: 0em 0em 5em 0em;
   background: #0000;
+}
+
+#copyright
+{
+  overflow: hidden;
+  padding: 5em 0em;
+  border-top: 1px solid rgba(255,255,255,0.08);
+  text-align: center;
+  color: #000;
+}
+
+#copyright p
+{
+  letter-spacing: 1px;
+  font-size: 0.90em;
+  color: rgba(255,255,255,0.6);
+}
+
+#copyright a
+{
+  text-decoration: none;
+  color: rgba(255,255,255,0.8);
 }
