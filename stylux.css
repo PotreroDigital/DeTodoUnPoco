@@ -9,11 +9,11 @@ font-family:"Comic Sans MS", sans-serif;
   font-family: 'Source Sans Pro', sans-serif;
   text-align: center;
 }
- #ima{
-   display: block;
-   margin: auto;
- }
-#img {
-  display:block;
-  margin:auto;
+
+#img.images {
+  width: 300%;
+  height: 250px;
+  display: block;
+  margin: auto;
+  align: center;
 }
