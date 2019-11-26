@@ -16,7 +16,7 @@ margin-top: 20px;
 border-radius: 20px;
 }
 
-h2 {
+h2, h1, h3{
 color: #fff;
 text-align: center;
 margin: 0;
@@ -97,16 +97,11 @@ cursor: pointer;
   font-weight: 600;
   text-transform: uppercase;
   outline: 0;
-  color: #FFF;
+
 }
 
 #menu li:hover a, #menu li.active a, #menu li.active span
 {
-}
-
-#menu .current_page_item a
-{
-  color: #FFF;
 }
 
 
@@ -124,6 +119,13 @@ cursor: pointer;
   overflow: hidden;
   padding: 0em 0em 5em 0em;
   background: #0000;
+}
+
+#wrapper2
+{
+  overflow: hidden;
+  background: rgba(0,0,0,.1);
+  padding: 5em 0em;
 }
 
 #copyright
